@@ -3,7 +3,7 @@ simple guide on implementing WebRTC with haxe
 
 To start a WebRTC connection you will need some sort of communication channel, it could be a server or pass the data somehow.
 
-If you want to connect to machines using WebRTC you will need two rols: someone that initiates the communication(make an offer) and someone that answers that offer.
+If you want to connect two machines using WebRTC you will need two rols: someone that initiates the communication(make an offer) and someone that answers that offer.
 
 We need the following actions by O(offer) and A(answer) to start ower communication channel:
 
